@@ -1,14 +1,14 @@
-# Why do it in mins when you can script it in days
+# Why Do It in Mins When You Can Script It in Days
 
-Collection of useful scripts to automate tedious tasks.
+A collection of automation scripts for tasks that *totally* needed to be automated. 🚀
 
-## Scripts
+## 📂 Folders
 
-### 1. LinkedIn Auto-Accept Invitations
-Automatically accepts all pending invitations on LinkedIn with auto-scrolling for lazy loading.
+### [`leetcode/`](./leetcode/README.md)
+- Company-wise question export to CSV
 
-**Usage:**
-1. Go to [LinkedIn Invitation Manager](https://www.linkedin.com/mynetwork/invitation-manager/).
-2. Open the Browser Console (`F12` or `Ctrl+Shift+J` or `Cmd+Option+J`).
-3. Copy the content of [`linkedin_accept_invites.js`](./linkedin_accept_invites.js).
-4. Paste it into the console and press `Enter`.
+### [`linkedin/`](./linkedin/README.md)
+- Auto-accept connection invitations
+
+### [`misc/`](./misc/README.md)
+- Mouse jiggler
